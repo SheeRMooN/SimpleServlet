@@ -4,13 +4,18 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee webapp_4_0.xsd"
          version="4.0">
 
-    <servlet>
-        <servlet-name>first-servlet</servlet-name>
-        <servlet-class>ru.practica.MainServlet</servlet-class>
-    </servlet>
+<!-- //   --> Servlet_1
+<!--    <servlet>-->
+<!--        <servlet-name>first-servlet</servlet-name>-->
+<!--        <servlet-class>ru.practica.MainServlet</servlet-class>-->
+<!--    </servlet>-->
 
-    <servlet-mapping>
-        <servlet-name>first-servlet</servlet-name>
-        <url-pattern>/*</url-pattern>
-    </servlet-mapping>
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>first-servlet</servlet-name>-->
+<!--        <url-pattern>/*</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+
+
+
 </web-app>
