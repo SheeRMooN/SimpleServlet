@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Two Index</title>
+</head>
+<body>
+    <form method="get" action="Servlet3">
+        <table>
+            <tr>
+                <td>Имя: </td>
+                <td><input type="text" name="firstname3"></td>
+            </tr>
+            <tr>
+                <td>Фамилия: </td>
+                <td><input type="text" name="lastname3"></td>
+            </tr>
+
+            <tr>
+                <td>Професия: </td>
+                <td>
+                    <select name="job">
+                        <option value="job1-developer">Developer</option>
+                        <option value="job2-tester">Tester</option>
+                        <option value="job3-analyst">Analyst</option>
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Gender: </td>
+                <td>
+                    <input type="radio" name="gender-wom" value="W">Woman</input><br>
+                    <input type="radio" name="gender-man" value="M">Man</input>
+                </td>
+            </tr>
+
+            <tr>
+                <td>Age: ? </td>
+                <td>
+                    <input type="checkbox" name="age=18" value="Yes">Yes</input><br>
+                </td>
+            </tr>
+
+            <tr>
+                <td align="right" colspan="2"><input type="submit" value="Accept"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

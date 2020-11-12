@@ -1,5 +1,5 @@
-//package ru.practica;
-//
+package ru.practica;
+
 //import javax.servlet.ServletConfig;
 //import javax.servlet.ServletException;
 //import javax.servlet.annotation.WebServlet;

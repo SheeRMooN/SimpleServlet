@@ -1,4 +1,4 @@
-package ru.Servlet_anat;
+package ru.servlet_2;
 
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
